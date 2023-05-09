@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 4280034285
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e4e1b844f2e2d493a9c5e8308a0687a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 71a10452c22afd1e5f24ae54541b6223
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0870463450ee48f4a873a7ff0da5ee06, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dfa3483ac51d824448358d34b5f16ea5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3146e8e68aefbb34e85df69e6722c915, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetsPackages/Prefab/Enemy/Slime/Slime.prefab
+Dependencies: []

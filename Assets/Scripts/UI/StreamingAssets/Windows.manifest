@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2707009332
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui
+      Dependencies: {}
+    Info_1:
+      Name: test
+      Dependencies: {}
+    Info_2:
+      Name: field
+      Dependencies: {}
+    Info_3:
+      Name: enemy
+      Dependencies: {}
